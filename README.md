@@ -13,3 +13,5 @@
 - Data Engineering with Python
     - https://subscription.packtpub.com/book/data/9781839214189/8
 
+- DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes
+    - https://www.udemy.com/course/valaxy-devops/
