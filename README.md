@@ -2,16 +2,27 @@
 
 # Table of content
 
+- [Introduction](#introduction)
+
+- [Link and resources](#link-and-resources)
+
+- [Tools for monitoring](#tools-for-monitoring)
+
+
 # Introduction
 
 # Link and resources
 
-
-- Efficient CI/CD for DBT
-    - https://www.youtube.com/watch?v=0oyS6lK0u84
-
-- Data Engineering with Python
-    - https://subscription.packtpub.com/book/data/9781839214189/8
+- Python for DevOps
+    - https://learning.oreilly.com/library/view/python-for-devops/9781492057680/
 
 - DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes
     - https://www.udemy.com/course/valaxy-devops/
+
+# Tools for monitoring
+
+- Graphine
+
+- Grafana
+
+- Prometheus 
