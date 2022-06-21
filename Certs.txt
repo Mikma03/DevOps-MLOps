@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------------
+Nazwa: Terraform Associate
+Link: https://www.hashicorp.com/certification/terraform-associate
+Koszt: 70.50 USD
+Level: Latwy
+
+---------------------------------------------------------------------------------
+Nazwa: Google Cloud Engineer
+Link: https://cloud.google.com/certification/cloud-engineer
+Koszt: 125 USD
+Level: Sredni
+
+---------------------------------------------------------------------------------
+Nazwa: Azure Data Engineer Associate
+Link: https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/
+Koszt: 110 USD
+Level: Sredni
+
+---------------------------------------------------------------------------------
+Nazwa: AWS Certified Solutions Architect – Associate
+Link: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+Koszt: 150 USD
+Level: Sredni
+
+---------------------------------------------------------------------------------
+Nazwa: Certified Jenkins Engineer
+Link: https://www.cloudbees.com/jenkins/certification
+Koszt: 99.0 USD
+
+---------------------------------------------------------------------------------
+Nazwa: Docker Certified Associate
+Link: https://training.mirantis.com/dca-certification-exam/
+Koszt: 195 USD
+
+---------------------------------------------------------------------------------
+Nazwa: KUBERNETES AND CLOUD NATIVE ASSOCIATE
+Link: https://www.cncf.io/certification/kcna/
+Koszt: 250 USD
+
+---------------------------------------------------------------------------------
+Nazwa: Certified Associate Developer for Apache Spark
+Link: https://databricks.com/learn/certification/apache-spark-developer-associate
+Koszt: 200 USD
+
+---------------------------------------------------------------------------------
+Nazwa: Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices exam
+Link: https://www.redhat.com/en/services/training/ex447-red-hat-certified-specialist-advanced-automation-ansible-best-practices-exam
+Koszt: 425 USD

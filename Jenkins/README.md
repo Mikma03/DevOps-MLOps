@@ -25,3 +25,9 @@
 
 - Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
     - https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/
+
+- Jenkins - Course - cert
+    - https://learning.oreilly.com/learning-paths/learning-path-certified/0636920305934/0636920305965-video327717/?snippet_id=snippet01
+
+- Jenkins free course
+    - https://university.cloudbees.com/
