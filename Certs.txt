@@ -46,3 +46,13 @@ Koszt: 200 USD
 Nazwa: Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices exam
 Link: https://www.redhat.com/en/services/training/ex447-red-hat-certified-specialist-advanced-automation-ansible-best-practices-exam
 Koszt: 425 USD
+
+---------------------------------------------------------------------------------
+Nazwa: SNOWPRO CORE CERTIFICATION
+Link: https://www.snowflake.com/certifications/
+Koszt: 88 USD
+
+---------------------------------------------------------------------------------
+Nazwa: TensorFlow Developer Certificate
+Link: https://www.tensorflow.org/certificate
+Koszt: 100 USD

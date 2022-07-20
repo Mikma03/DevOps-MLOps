@@ -1,11 +1,6 @@
-# Jenkins
-
-# Table of content
 
 <!-- TOC -->
 
-- [Jenkins](#jenkins)
-- [Table of content](#table-of-content)
 - [Introduction and materials](#introduction-and-materials)
 
 <!-- /TOC -->
@@ -31,3 +26,9 @@
 
 - Jenkins free course
     - https://university.cloudbees.com/
+
+- Learning Path: Certified Jenkins Engineer (CJE) Prep Course
+  - https://learning.oreilly.com/learning-paths/learning-path-certified/0636920305934/
+
+- Continuous Delivery with Docker and Jenkins - Third Edition
+  - https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/

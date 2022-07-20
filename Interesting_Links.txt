@@ -1,0 +1,29 @@
+VSC extensions for Python developers:
+https://realpython.com/advanced-visual-studio-code-python/
+
+
+Modlin and pandas:
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-optimize-data-processing
+
+https://modin.readthedocs.io/en/latest/
+
+
+Visualization
+https://www.udemy.com/course/python-bokeh/
+https://learning.oreilly.com/videos/data-analytics-using/9781804614839/
+
+
+Python 3.11 Preview: TOML and tomllib
+https://realpython.com/python311-tomllib/
+
+
+Using Poetry to manage Python projects
+https://www.youtube.com/watch?v=V7UhzA4g2yg&ab_channel=IDGTECHtalk
+https://www.youtube.com/watch?v=Xf8K3v8_JwQ&ab_channel=IanWootten
+
+
+Working with config files in Python
+https://www.youtube.com/watch?v=Gdw0-QGq-z0&ab_channel=DevUpskillnet
+
+How to Publish an Open-Source Python Package to PyPI
+https://realpython.com/pypi-publish-python-package/

@@ -19,3 +19,6 @@
 
 - Terraform in Action video edition
     - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
+
+- Terraform with Azure by Building a Dev Environment
+  - https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org
