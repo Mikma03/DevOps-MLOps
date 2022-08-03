@@ -2,23 +2,49 @@
 <!-- TOC -->
 
 - [Terraform - Introduction and materials](#terraform---introduction-and-materials)
+  - [Terraform - general information](#terraform---general-information)
+  - [Terraform on Azure](#terraform-on-azure)
+  - [Terraform on GCP](#terraform-on-gcp)
+  - [Additionals course](#additionals-course)
+  - [Live events](#live-events)
 
 <!-- /TOC -->
 
 # Terraform - Introduction and materials
 
-
-- Learn Terraform for Cloud Infrastructures
-    - https://learning.oreilly.com/videos/learn-terraform-for/9781838982959/
-
-- Terraform for Beginners using GCP
-    - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
+## Terraform - general information
 
 - Hashicorp Terraform
     - https://app.exampro.co/student/journey/terraform
 
+- Terraform: Up and Running, 3rd Edition
+  - https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/
+
+- Learn Terraform for Cloud Infrastructures
+    - https://learning.oreilly.com/videos/learn-terraform-for/9781838982959/
+
 - Terraform in Action video edition
     - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
 
+## Terraform on Azure
+
 - Terraform with Azure by Building a Dev Environment
   - https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org
+
+- Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
+  - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
+
+## Terraform on GCP
+
+- Terraform for Beginners using GCP
+    - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
+
+## Additionals course
+
+- Developing Infrastructure as Code with Terraform LiveLessons
+  - https://learning.oreilly.com/videos/developing-infrastructure-as/9780136608776/
+
+## Live events
+
+- Hashicorp Certified: Terraform Associate Certification Crash Course
+  - https://learning.oreilly.com/live-events/hashicorp-certified-terraform-associate-certification-crash-course/0636920072267/0636920074884/

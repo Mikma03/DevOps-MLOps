@@ -1,5 +1,3 @@
-
-
 <!-- TOC -->
 
 - [Link and resources - DevOps generally](#link-and-resources---devops-generally)
@@ -14,27 +12,11 @@
 - [DBT - Data Build Tool](#dbt---data-build-tool)
 - [Jenkins](#jenkins)
 - [Terraform](#terraform)
-- [Spark](#spark)
-  - [Microsoft dedicated paths](#microsoft-dedicated-paths)
-    - [Microsoft path for Databricks - Data Engineering](#microsoft-path-for-databricks---data-engineering)
-    - [Microsoft path for Databricks - Machine Learning](#microsoft-path-for-databricks---machine-learning)
-    - [Microsoft path for Databricks - Data Science](#microsoft-path-for-databricks---data-science)
-  - [Databricks dedicated path](#databricks-dedicated-path)
-  - [Databricks path for certification](#databricks-path-for-certification)
-  - [YouTube course](#youtube-course)
-  - [Udemy courses](#udemy-courses)
-    - [Taming Big Data with Apache Spark and Python - Hands On!](#taming-big-data-with-apache-spark-and-python---hands-on)
-    - [Azure Databricks & Spark Core For Data Engineers(Python/SQL)](#azure-databricks--spark-core-for-data-engineerspythonsql)
-    - [Apache Spark 3 - Databricks Certified Associate Developer](#apache-spark-3---databricks-certified-associate-developer)
-    - [Databricks Certified Associate Developer - Apache Spark 2022](#databricks-certified-associate-developer---apache-spark-2022)
-    - [Complete PySpark Developer Course](#complete-pyspark-developer-course)
-    - [PySpark Project- End to End Real Time Project Implementation](#pyspark-project--end-to-end-real-time-project-implementation)
-  - [Books](#books)
-    - [Learning Spark, 2nd Edition](#learning-spark-2nd-edition)
-    - [Spark: The Definitive Guide](#spark-the-definitive-guide)
-  - [Oreilly](#oreilly)
-    - [Apache Spark 3 for Data Engineering and Analytics with Python](#apache-spark-3-for-data-engineering-and-analytics-with-python)
-    - [Apache Spark 3 Advance Skills for Cracking Job Interviews](#apache-spark-3-advance-skills-for-cracking-job-interviews)
+  - [Terraform - general information](#terraform---general-information)
+  - [Terraform on Azure](#terraform-on-azure)
+  - [Terraform on GCP](#terraform-on-gcp)
+  - [Additionals course](#additionals-course)
+  - [Live events](#live-events)
 - [GIT](#git)
 - [PostgreSQL](#postgresql)
 - [Apache Cassandra](#apache-cassandra)
@@ -46,7 +28,6 @@
   - [Expert Hadoop® Administration](#expert-hadoop-administration)
 
 <!-- /TOC -->
-
 
 # Link and resources - DevOps generally
 
@@ -65,8 +46,6 @@
 - Pipeline as Code: Continuous Delivery with Jenkins, Kubernetes, and Terraform
     - https://learning.oreilly.com/videos/pipeline-as-code/9781617297540VE/
 
-
-
 # Tools for monitoring
 
 - Graphine
@@ -79,11 +58,9 @@
 
 - https://learning.oreilly.com/videos/ansible-from-basics/9780137894949/9780137894949-ABG1_01_00_00/
 
-
 # Bash
 
 - https://learning.oreilly.com/videos/bash-shell-scripting/9780137689064/9780137689064-BSS2_00_00_00/
-
 
 # MLOps
 
@@ -123,7 +100,6 @@
 
 - Data Pipelines with Apache Airflow
     - https://learning.oreilly.com/videos/data-pipelines-with/9781617296901VE/
-
 
 # Databricks
 
@@ -171,85 +147,42 @@
 
 # Terraform
 
-- Learn Terraform for Cloud Infrastructures
-    - https://subscription.packtpub.com/video/cloud_and_networking/9781838982959/p1/video1_1/the-course-overview
-
-- Terraform for Beginners using GCP
-    - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
+## Terraform - general information
 
 - Hashicorp Terraform
     - https://app.exampro.co/student/journey/terraform
 
+- Terraform: Up and Running, 3rd Edition
+  - https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/
+
+- Learn Terraform for Cloud Infrastructures
+    - https://learning.oreilly.com/videos/learn-terraform-for/9781838982959/
+
 - Terraform in Action video edition
     - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
 
+## Terraform on Azure
 
-# Spark
+- Terraform with Azure by Building a Dev Environment
+  - https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org
 
-## Microsoft dedicated paths
+- Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
+  - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
 
-### Microsoft path for Databricks - Data Engineering
-https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/
+## Terraform on GCP
 
-### Microsoft path for Databricks - Machine Learning
-https://docs.microsoft.com/en-us/learn/paths/build-operate-machine-learning-solutions-azure-databricks/?WT.mc_id=AI-MVP-5004069
+- Terraform for Beginners using GCP
+    - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
 
-### Microsoft path for Databricks - Data Science
-https://docs.microsoft.com/en-ie/learn/paths/perform-data-science-azure-databricks/?WT.mc_id=AI-MVP-5004069
+## Additionals course
 
+- Developing Infrastructure as Code with Terraform LiveLessons
+  - https://learning.oreilly.com/videos/developing-infrastructure-as/9780136608776/
 
+## Live events
 
-## Databricks dedicated path
-
-## Databricks path for certification
-https://partner-academy.databricks.com/pages/21/home
-
-
-
-## YouTube course
-
-https://www.youtube.com/playlist?list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp
-
-
-
-## Udemy courses
-
-### Taming Big Data with Apache Spark and Python - Hands On!
-https://udemy.com/course/taming-big-data-with-apache-spark-hands-on/
-
-### Azure Databricks & Spark Core For Data Engineers(Python/SQL)
-https://udemy.com/course/azure-databricks-spark-core-for-data-engineers/
-
-### Apache Spark 3 - Databricks Certified Associate Developer
-https://udemy.com/course/apache-spark-3-databricks-certified-associate-developer/
-
-### Databricks Certified Associate Developer - Apache Spark 2022
-https://udemy.com/course/databricks-certified-associate-developer-for-apache-spark/
-
-### Complete PySpark Developer Course
-https://www.udemy.com/course/pyspark-developer-course/
-
-### PySpark Project- End to End Real Time Project Implementation
-https://www.udemy.com/course/end-to-end-pyspark-real-time-project-implementation-spark/
-
-
-## Books
-
-### Learning Spark, 2nd Edition
-https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/
-
-### Spark: The Definitive Guide
-https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/
-
-
-## Oreilly
-
-### Apache Spark 3 for Data Engineering and Analytics with Python
-https://learning.oreilly.com/videos/apache-spark-3/9781803244303/
-
-### Apache Spark 3 Advance Skills for Cracking Job Interviews
-https://subscription.packtpub.com/video/data/9781803241555/p1/video1_1/course-introduction
-
+- Hashicorp Certified: Terraform Associate Certification Crash Course
+  - https://learning.oreilly.com/live-events/hashicorp-certified-terraform-associate-certification-crash-course/0636920072267/0636920074884/
 
 # GIT
 
