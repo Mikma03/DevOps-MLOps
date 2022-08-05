@@ -46,6 +46,9 @@
 - Pipeline as Code: Continuous Delivery with Jenkins, Kubernetes, and Terraform
     - https://learning.oreilly.com/videos/pipeline-as-code/9781617297540VE/
 
+- Rocking DevOps with Jenkins, Kubernetes, Ansible
+    - https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible/
+
 # Tools for monitoring
 
 - Graphine
