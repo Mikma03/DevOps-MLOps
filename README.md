@@ -7,25 +7,22 @@
 - [MLOps](#mlops)
 - [O'Reilly series - Noah Gift](#oreilly-series---noah-gift)
 - [Apache Airflow](#apache-airflow)
-- [Databricks](#databricks)
 - [Snowflake](#snowflake)
 - [DBT - Data Build Tool](#dbt---data-build-tool)
 - [Jenkins](#jenkins)
 - [Terraform](#terraform)
-  - [Terraform - general information](#terraform---general-information)
+  - [Terraform - Introduction and materials](#terraform---introduction-and-materials)
+    - [Practise exam questions](#practise-exam-questions)
+    - [Terraform - general information](#terraform---general-information)
+  - [Udemy course](#udemy-course)
   - [Terraform on Azure](#terraform-on-azure)
+  - [Terraform on AWS](#terraform-on-aws)
   - [Terraform on GCP](#terraform-on-gcp)
   - [Additionals course](#additionals-course)
   - [Live events](#live-events)
-- [GIT](#git)
 - [PostgreSQL](#postgresql)
 - [Apache Cassandra](#apache-cassandra)
 - [Apache Nifi](#apache-nifi)
-- [Hadoop](#hadoop)
-  - [Introduction to Hadoop Security](#introduction-to-hadoop-security)
-  - [The Ultimate Hands-On Hadoop](#the-ultimate-hands-on-hadoop)
-  - [Hadoop: The Definitive Guide, 4th Edition](#hadoop-the-definitive-guide-4th-edition)
-  - [Expert Hadoop® Administration](#expert-hadoop-administration)
 
 <!-- /TOC -->
 
@@ -104,14 +101,6 @@
 - Data Pipelines with Apache Airflow
     - https://learning.oreilly.com/videos/data-pipelines-with/9781617296901VE/
 
-# Databricks
-
-- Mastering Databricks & Apache spark - Build ETL data pipeline
-    - https://www.udemy.com/course/mastering-databricks-apache-spark-build-etl-data-pipeline/
-
-- Master Databricks and Apache Spark
-    - https://www.youtube.com/playlist?list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp
-
 # Snowflake
 
 - Snowflake – The Complete Masterclass
@@ -150,7 +139,15 @@
 
 # Terraform
 
-## Terraform - general information
+## Terraform - Introduction and materials
+
+### Practise exam questions
+
+- https://www.udemy.com/course/terraform-associate-practice-exam/
+- https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020-model-exams/
+- https://www.udemy.com/course/terraform-associate-certification-2021-practice-exams/
+
+### Terraform - general information
 
 - Hashicorp Terraform
     - https://app.exampro.co/student/journey/terraform
@@ -164,13 +161,29 @@
 - Terraform in Action video edition
     - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
 
+## Udemy course
+
+- HashiCorp Certified: Terraform Associate 2022
+  - https://www.udemy.com/course/terraform-beginner-to-advanced/
+
+- HashiCorp Certified: Terraform Associate - Hands-On Labs
+  - https://www.udemy.com/course/terraform-hands-on-labs/
+
 ## Terraform on Azure
+
+- Azure - HashiCorp Certified: Terraform Associate
+  - https://www.udemy.com/course/hashicorp-certified-terraform-associate-on-azure-cloud/
 
 - Terraform with Azure by Building a Dev Environment
   - https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org
 
 - Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
   - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
+
+## Terraform on AWS
+
+- HashiCorp Certified: Terraform Associate -50 Practical Demos
+  - https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/
 
 ## Terraform on GCP
 
@@ -186,17 +199,6 @@
 
 - Hashicorp Certified: Terraform Associate Certification Crash Course
   - https://learning.oreilly.com/live-events/hashicorp-certified-terraform-associate-certification-crash-course/0636920072267/0636920074884/
-
-# GIT
-
-- The Complete GitHub Actions & Workflows Guide
-    - https://www.udemy.com/course/github-actions/
-    
-- Git course
-  - https://www.youtube.com/watch?v=tvHVafvw16Y&list=PLj-pbEqbjo6AKsJ8oE2pvIqsb15mxdrxs&ab_channel=Zaprogramuj%C5%BBycie
-
-- The Git & Github Bootcamp
-  - https://www.udemy.com/course/git-and-github-bootcamp/
 
 # PostgreSQL
 
@@ -237,17 +239,3 @@
 - Apache NiFi Complete Master Course
     - https://www.udemy.com/course/apache-nifi-complete-master-course-hdp-automation-etl/
 
-
-# Hadoop 
-
-## Introduction to Hadoop Security
-https://learning.oreilly.com/videos/introduction-to-hadoop/9781771375054/
-
-## The Ultimate Hands-On Hadoop
-https://learning.oreilly.com/videos/the-ultimate-hands-on/9781788478489/
-
-## Hadoop: The Definitive Guide, 4th Edition
-https://learning.oreilly.com/library/view/hadoop-the-definitive/9781491901687/
-
-## Expert Hadoop® Administration
-https://learning.oreilly.com/library/view/expert-hadoop-r-administration/9780134598147/
