@@ -15,11 +15,13 @@
 
 # Terraform - Introduction and materials
 
+
 ## Practise exam questions
 
 - https://www.udemy.com/course/terraform-associate-practice-exam/
 - https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020-model-exams/
 - https://www.udemy.com/course/terraform-associate-certification-2021-practice-exams/
+
 
 ## Terraform - general information
 
@@ -35,6 +37,7 @@
 - Terraform in Action video edition
     - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
 
+
 # Udemy course
 
 - HashiCorp Certified: Terraform Associate 2022
@@ -42,6 +45,7 @@
 
 - HashiCorp Certified: Terraform Associate - Hands-On Labs
   - https://www.udemy.com/course/terraform-hands-on-labs/
+
 
 # Terraform on Azure
 
@@ -54,20 +58,24 @@
 - Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
   - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
 
+
 # Terraform on AWS
 
 - HashiCorp Certified: Terraform Associate -50 Practical Demos
   - https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/
+
 
 # Terraform on GCP
 
 - Terraform for Beginners using GCP
     - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
 
+
 # Additionals course
 
 - Developing Infrastructure as Code with Terraform LiveLessons
   - https://learning.oreilly.com/videos/developing-infrastructure-as/9780136608776/
+
 
 # Live events
 

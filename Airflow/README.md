@@ -1,16 +1,11 @@
-# Apache Airflow
-
-# Table of contents
-
 <!-- TOC -->
 
-- [Apache Airflow](#apache-airflow)
-- [Table of contents](#table-of-contents)
-- [Introduction and materials](#introduction-and-materials)
+- [Introduction and materials - Udemy](#introduction-and-materials---udemy)
 
 <!-- /TOC -->
 
-# Introduction and materials
+
+# Introduction and materials - Udemy
 
 - Apache Airflow: The Hands-On Guide
     - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/

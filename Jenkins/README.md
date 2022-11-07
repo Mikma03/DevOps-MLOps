@@ -2,6 +2,7 @@
 <!-- TOC -->
 
 - [Jenkins - references](#jenkins---references)
+  - [Jenkins on Azure documentation](#jenkins-on-azure-documentation)
   - [Jenkins Certification Training Course](#jenkins-certification-training-course)
   - [Udemy](#udemy)
   - [Books](#books)
@@ -10,6 +11,11 @@
 
 <!-- /TOC -->
 # Jenkins - references
+
+## Jenkins on Azure documentation
+
+- https://learn.microsoft.com/en-us/azure/developer/jenkins/
+
 
 ## Jenkins Certification Training Course
 
@@ -25,6 +31,7 @@
 - Certified Jenkins Engineer (CJE) Prep Course
   - https://learning.oreilly.com/videos/certified-jenkins-engineer/0636920305965/
 
+
 ## Udemy
 
 - DevOps Jenkins Master
@@ -35,6 +42,7 @@
 
 - Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
     - https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/
+
 
 ## Books
 
@@ -47,10 +55,12 @@
 - Jenkins Administrator's Guide
     - https://learning.oreilly.com/library/view/jenkins-administrators-guide/9781838824327/
 
+
 ## Helion
 
 - Jenkins. Kurs video. Zostań administratorem systemów IT
     - https://helion.pl/ksiazki/jenkins-kurs-video-zostan-administratorem-systemow-it-piotr-koska,vpuppe.htm#
+
 
 ## Oreily course
 

@@ -1,6 +1,6 @@
 <!-- TOC -->
 
-- [Link and resources - DevOps generally](#link-and-resources---devops-generally)
+- [Links and resources - DevOps generally](#links-and-resources---devops-generally)
 - [Tools for monitoring](#tools-for-monitoring)
 - [Ansible](#ansible)
 - [Linux - Bash](#linux---bash)
@@ -24,16 +24,28 @@
   - [Terraform on GCP](#terraform-on-gcp)
   - [Additionals course](#additionals-course)
   - [Live events](#live-events)
+- [Azure DevOps](#azure-devops)
+  - [Books - Oreilly](#books---oreilly)
+    - [DevOps explanation based on Azure DevOps](#devops-explanation-based-on-azure-devops)
+  - [Courses - Oreilly](#courses---oreilly)
+    - [Intro to Azure DevOps - course](#intro-to-azure-devops---course)
+  - [Azure DevOps and Terraform](#azure-devops-and-terraform)
+  - [Azure DevOps - Cert](#azure-devops---cert)
 - [Apache Nifi](#apache-nifi)
 - [GitHub Actions](#github-actions)
+  - [Udemy course](#udemy-course-1)
+- [Git courses](#git-courses)
+  - [Git course in PL - YouTube](#git-course-in-pl---youtube)
+  - [Git course in EN - Udemy](#git-course-in-en---udemy)
 
 <!-- /TOC -->
 
-# Link and resources - DevOps generally
+# Links and resources - DevOps generally
 
 - [Python for DevOps by Noah Gift](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
 
 - [DevOps Tools Periodic Table](https://digital.ai/devops-tools-periodic-table)
+
 
 # Tools for monitoring
 
@@ -41,13 +53,16 @@
 
 - [Prometheus official website](https://prometheus.io/)
 
+
 # Ansible
 
 - [Ansible: From Basics to Guru By Sander van Vugt](https://learning.oreilly.com/videos/ansible-from-basics/9780137894949/)
 
+
 # Linux - Bash 
 
 - [Bash Shell Scripting: Introduction By Sander van Vugt](https://learning.oreilly.com/videos/bash-shell-scripting/9780137689064/9780137689064-BSS2_00_00_00/)
+
 
 # MLOps
 
@@ -70,6 +85,7 @@
 - MLOps workflow with Github Actions
     - https://learning.oreilly.com/videos/mlops-workflow-with/50108VIDEOPAIML/
 
+
 # Apache Airflow
 
 - Apache Airflow: The Hands-On Guide
@@ -80,6 +96,7 @@
 
 - Data Pipelines with Apache Airflow
     - https://learning.oreilly.com/videos/data-pipelines-with/9781617296901VE/
+
 
 # Jenkins
 
@@ -139,6 +156,7 @@
     - https://learning.oreilly.com/videos/hands-on-continuous-integration/9781838982065/
 
 
+
 # Terraform
 
 ## Terraform - Introduction and materials
@@ -182,6 +200,12 @@
 - Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
   - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
 
+- Terraform on Azure
+  - https://www.udemy.com/course/terraform-on-azure-services/
+
+- Azure Kubernetes Service with Azure DevOps and Terraform
+  - https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/
+
 ## Terraform on AWS
 
 - HashiCorp Certified: Terraform Associate -50 Practical Demos
@@ -202,18 +226,62 @@
 - Hashicorp Certified: Terraform Associate Certification Crash Course
   - https://learning.oreilly.com/live-events/hashicorp-certified-terraform-associate-certification-crash-course/0636920072267/0636920074884/
 
+
+# Azure DevOps
+
+## Books - Oreilly
+
+### DevOps explanation based on Azure DevOps
+
+- Azure DevOps for Web Developers
+  - https://learning.oreilly.com/library/view/azure-devops-for/9781484264126/
+
+- Azure DevOps Explained
+  - https://learning.oreilly.com/library/view/azure-devops-explained/9781800563513/
+
+
+## Courses - Oreilly
+
+### Intro to Azure DevOps - course
+
+- https://learning.oreilly.com/videos/azure-devops-and/9781804618660/
+
+
+## Azure DevOps and Terraform
+
+- Azure Kubernetes Service with Azure DevOps and Terraform
+  - https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/
+
+
+## Azure DevOps - Cert
+
+- AZ-400 Designing and Implementing DevOps Certification 2022
+  - https://www.udemy.com/course/azure100/
+
+
 # Apache Nifi
 
 - Apache NiFi Complete Master Course
     - https://www.udemy.com/course/apache-nifi-complete-master-course-hdp-automation-etl/
 
+
 # GitHub Actions
+
+## Udemy course
 
 - The Complete GitHub Actions & Workflows Guide
     - https://www.udemy.com/course/github-actions/
-    
+
+
+# Git courses
+
+## Git course in PL - YouTube
+
 - Git course
   - https://www.youtube.com/watch?v=tvHVafvw16Y&list=PLj-pbEqbjo6AKsJ8oE2pvIqsb15mxdrxs&ab_channel=Zaprogramuj%C5%BBycie
+
+
+## Git course in EN - Udemy
 
 - The Git & Github Bootcamp
   - https://www.udemy.com/course/git-and-github-bootcamp/
