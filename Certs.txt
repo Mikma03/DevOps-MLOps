@@ -56,3 +56,8 @@ Koszt: 88 USD
 Nazwa: TensorFlow Developer Certificate
 Link: https://www.tensorflow.org/certificate
 Koszt: 100 USD
+
+---------------------------------------------------------------------------------
+Nazwa: PROMETHEUS CERTIFIED ASSOCIATE
+Link: https://www.cncf.io/certification/pca/
+Koszt: 250 USD
