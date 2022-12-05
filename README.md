@@ -23,7 +23,6 @@
   - [Terraform on AWS](#terraform-on-aws)
   - [Terraform on GCP](#terraform-on-gcp)
   - [Additionals course](#additionals-course)
-  - [Live events](#live-events)
 - [Azure DevOps](#azure-devops)
   - [Books - Oreilly](#books---oreilly)
     - [DevOps explanation based on Azure DevOps](#devops-explanation-based-on-azure-devops)
@@ -220,11 +219,6 @@
 
 - Developing Infrastructure as Code with Terraform LiveLessons
   - https://learning.oreilly.com/videos/developing-infrastructure-as/9780136608776/
-
-## Live events
-
-- Hashicorp Certified: Terraform Associate Certification Crash Course
-  - https://learning.oreilly.com/live-events/hashicorp-certified-terraform-associate-certification-crash-course/0636920072267/0636920074884/
 
 
 # Azure DevOps
