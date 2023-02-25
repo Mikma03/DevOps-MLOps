@@ -36,6 +36,9 @@
 - [Git courses](#git-courses)
   - [Git course in PL - YouTube](#git-course-in-pl---youtube)
   - [Git course in EN - Udemy](#git-course-in-en---udemy)
+- [Others](#others)
+  - [Continuous Delivery with Docker and Jenkins](#continuous-delivery-with-docker-and-jenkins)
+  - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](#bootstrapping-microservices-with-docker-kubernetes-and-terraform)
 
 <!-- /TOC -->
 
@@ -45,116 +48,123 @@
 
 - [DevOps Tools Periodic Table](https://digital.ai/devops-tools-periodic-table)
 
-
 # Tools for monitoring
 
 - [Grafana official website](https://grafana.com/)
 
 - [Prometheus official website](https://prometheus.io/)
 
-
 # Ansible
 
 - [Ansible: From Basics to Guru By Sander van Vugt](https://learning.oreilly.com/videos/ansible-from-basics/9780137894949/)
 
-
-# Linux - Bash 
+# Linux - Bash
 
 - [Bash Shell Scripting: Introduction By Sander van Vugt](https://learning.oreilly.com/videos/bash-shell-scripting/9780137689064/9780137689064-BSS2_00_00_00/)
-
 
 # MLOps
 
 ## Books
 
 - Engineering MLOps
-    - https://learning.oreilly.com/library/view/engineering-mlops/9781800562882/
+
+  - https://learning.oreilly.com/library/view/engineering-mlops/9781800562882/
 
 - Awesome-mlops
-    - https://github.com/visenger/awesome-mlops
+  - https://github.com/visenger/awesome-mlops
 
 ## O'Reilly series - Noah Gift
 
 - MLOps Platforms From Zero: Databricks, MLFlow/MLRun/SKLearn
-    - https://learning.oreilly.com/videos/mlops-platforms-from/032232022VIDEOPAIML/
+
+  - https://learning.oreilly.com/videos/mlops-platforms-from/032232022VIDEOPAIML/
 
 - MLOps Masterclass: Theory to DevOps to Cloud-native to AutoML
-    - https://learning.oreilly.com/videos/mlops-masterclass-theory/051712022VIDEOPAIML/
+
+  - https://learning.oreilly.com/videos/mlops-masterclass-theory/051712022VIDEOPAIML/
 
 - MLOps workflow with Github Actions
-    - https://learning.oreilly.com/videos/mlops-workflow-with/50108VIDEOPAIML/
-
+  - https://learning.oreilly.com/videos/mlops-workflow-with/50108VIDEOPAIML/
 
 # Apache Airflow
 
 - Apache Airflow: The Hands-On Guide
-    - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/
+
+  - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/
 
 - The Complete Hands-On Introduction to Apache Airflow
-    - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/
+
+  - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/
 
 - Data Pipelines with Apache Airflow
-    - https://learning.oreilly.com/videos/data-pipelines-with/9781617296901VE/
-
+  - https://learning.oreilly.com/videos/data-pipelines-with/9781617296901VE/
 
 # Jenkins
 
 ## Jenkins Certification Training Course
 
 - Certified Jenkins Engineer
-    - https://acloudguru.com/course/certified-jenkins-engineer
+
+  - https://acloudguru.com/course/certified-jenkins-engineer
 
 - Exam Preparation: Certified Jenkins Engineer
-    - https://university.cloudbees.com/
+
+  - https://university.cloudbees.com/
 
 - Learning Path: Certified Jenkins Engineer (CJE) Prep Course
-    - https://learning.oreilly.com/learning-paths/learning-path-certified/0636920305934/
+
+  - https://learning.oreilly.com/learning-paths/learning-path-certified/0636920305934/
 
 - CI/CD Pipelines with Jenkins Certification Training Course
-    - https://learning.oreilly.com/videos/ci-cd-pipelines-with/9781804616918/
+
+  - https://learning.oreilly.com/videos/ci-cd-pipelines-with/9781804616918/
 
 - DevOps: Certified Jenkins Engineer
-    - https://www.udemy.com/course/continous-integration-jenkins-pipelines/
+  - https://www.udemy.com/course/continous-integration-jenkins-pipelines/
 
 ## Udemy
 
 - DevOps Jenkins Master
-    - https://www.udemy.com/course/jenkins-from-zero-to-hero/
+
+  - https://www.udemy.com/course/jenkins-from-zero-to-hero/
 
 - DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes
-    - https://www.udemy.com/course/valaxy-devops/
+
+  - https://www.udemy.com/course/valaxy-devops/
 
 - Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
-    - https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/
+
+  - https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/
 
 - Rocking DevOps with Jenkins, Kubernetes, Ansible
-    - https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible/
+  - https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible/
 
 ## Books
 
 - CI/CD Pipeline Using Jenkins Unleashed: Solutions While Setting Up CI/CD Processes
-    - https://learning.oreilly.com/library/view/ci-cd-pipeline-using/9781484275085/
+
+  - https://learning.oreilly.com/library/view/ci-cd-pipeline-using/9781484275085/
 
 - Continuous Delivery with Docker and Jenkins - Third Edition
-    - https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/
+
+  - https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/
 
 - Jenkins Administrator's Guide
-    - https://learning.oreilly.com/library/view/jenkins-administrators-guide/9781838824327/
+
+  - https://learning.oreilly.com/library/view/jenkins-administrators-guide/9781838824327/
 
 - Pipeline as Code: Continuous Delivery with Jenkins, Kubernetes, and Terraform
-    - https://learning.oreilly.com/videos/pipeline-as-code/9781617297540VE/
+  - https://learning.oreilly.com/videos/pipeline-as-code/9781617297540VE/
 
 ## Helion
 
 - Jenkins. Kurs video. Zostań administratorem systemów IT
-    - https://helion.pl/ksiazki/jenkins-kurs-video-zostan-administratorem-systemow-it-piotr-koska,vpuppe.htm#
+  - https://helion.pl/ksiazki/jenkins-kurs-video-zostan-administratorem-systemow-it-piotr-koska,vpuppe.htm#
 
 ## Oreily course
 
 - Hands-On Continuous Integration and Delivery with Jenkins
-    - https://learning.oreilly.com/videos/hands-on-continuous-integration/9781838982065/
-
-
+  - https://learning.oreilly.com/videos/hands-on-continuous-integration/9781838982065/
 
 # Terraform
 
@@ -169,41 +179,57 @@
 ### Terraform - general information
 
 - Hashicorp Terraform
-    - https://app.exampro.co/student/journey/terraform
+
+  - https://app.exampro.co/student/journey/terraform
 
 - Terraform: Up and Running, 3rd Edition
+
   - https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/
 
 - Learn Terraform for Cloud Infrastructures
-    - https://learning.oreilly.com/videos/learn-terraform-for/9781838982959/
+
+  - https://learning.oreilly.com/videos/learn-terraform-for/9781838982959/
 
 - Terraform in Action video edition
-    - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
+  - https://learning.oreilly.com/videos/terraform-in-action/9781617296895VE/
 
 ## Udemy course
 
 - HashiCorp Certified: Terraform Associate 2022
+
   - https://www.udemy.com/course/terraform-beginner-to-advanced/
 
-- HashiCorp Certified: Terraform Associate - Hands-On Labs
+- HashiCorp Certified: Terraform Associate - Hands-On Labs (AWS)
   - https://www.udemy.com/course/terraform-hands-on-labs/
 
 ## Terraform on Azure
 
 - Azure - HashiCorp Certified: Terraform Associate
+
   - https://www.udemy.com/course/hashicorp-certified-terraform-associate-on-azure-cloud/
 
 - Terraform with Azure by Building a Dev Environment
+
   - https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org
 
 - Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
+
   - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
 
 - Terraform on Azure
+
   - https://www.udemy.com/course/terraform-on-azure-services/
 
 - Azure Kubernetes Service with Azure DevOps and Terraform
+
   - https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/
+
+- Azure - HashiCorp Certified: Terraform Associate -70 Demos
+
+  - https://www.udemy.com/course/hashicorp-certified-terraform-associate-on-azure-cloud/
+
+- Terraform on Azure with IaC DevOps SRE | Real-World 25 Demos
+  - https://www.udemy.com/course/terraform-on-azure-with-iac-azure-devops-sre-real-world-25-demos/
 
 ## Terraform on AWS
 
@@ -213,13 +239,12 @@
 ## Terraform on GCP
 
 - Terraform for Beginners using GCP
-    - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
+  - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
 
 ## Additionals course
 
 - Developing Infrastructure as Code with Terraform LiveLessons
   - https://learning.oreilly.com/videos/developing-infrastructure-as/9780136608776/
-
 
 # Azure DevOps
 
@@ -228,11 +253,11 @@
 ### DevOps explanation based on Azure DevOps
 
 - Azure DevOps for Web Developers
+
   - https://learning.oreilly.com/library/view/azure-devops-for/9781484264126/
 
 - Azure DevOps Explained
   - https://learning.oreilly.com/library/view/azure-devops-explained/9781800563513/
-
 
 ## Courses - Oreilly
 
@@ -240,32 +265,27 @@
 
 - https://learning.oreilly.com/videos/azure-devops-and/9781804618660/
 
-
 ## Azure DevOps and Terraform
 
 - Azure Kubernetes Service with Azure DevOps and Terraform
   - https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/
-
 
 ## Azure DevOps - Cert
 
 - AZ-400 Designing and Implementing DevOps Certification 2022
   - https://www.udemy.com/course/azure100/
 
-
 # Apache Nifi
 
 - Apache NiFi Complete Master Course
-    - https://www.udemy.com/course/apache-nifi-complete-master-course-hdp-automation-etl/
-
+  - https://www.udemy.com/course/apache-nifi-complete-master-course-hdp-automation-etl/
 
 # GitHub Actions
 
 ## Udemy course
 
 - The Complete GitHub Actions & Workflows Guide
-    - https://www.udemy.com/course/github-actions/
-
+  - https://www.udemy.com/course/github-actions/
 
 # Git courses
 
@@ -274,9 +294,17 @@
 - Git course
   - https://www.youtube.com/watch?v=tvHVafvw16Y&list=PLj-pbEqbjo6AKsJ8oE2pvIqsb15mxdrxs&ab_channel=Zaprogramuj%C5%BBycie
 
-
 ## Git course in EN - Udemy
 
 - The Git & Github Bootcamp
   - https://www.udemy.com/course/git-and-github-bootcamp/
 
+# Others
+
+## Continuous Delivery with Docker and Jenkins
+
+- https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/
+
+## Bootstrapping Microservices with Docker, Kubernetes, and Terraform
+
+- https://learning.oreilly.com/library/view/bootstrapping-microservices-with/9781617297212/
