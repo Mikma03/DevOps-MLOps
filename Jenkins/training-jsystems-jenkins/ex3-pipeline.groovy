@@ -22,7 +22,7 @@ pipeline {
             }
             steps {
                 sh 'echo "Starting sleep..."'
-                sh 'sleep 60'
+                sh 'sleep 15'
                 sh 'echo "Sleep completed."'
             }
         }
