@@ -43,5 +43,4 @@ Ansible, CloudFormation, Heat, Terraform, and Pulumi do not require you to insta
 
 For Terraform to be able to make changes in your AWS account, you will need to set the AWS credentials for the IAM user you created earlier as the environment variables **AWS_ACCESS_KEY_ID** and A**WS_SECRET_ACCESS_KEY**
 
-
 Note that these environment variables apply only to the current shell, so if you reboot your computer or open a new terminal window, you’ll need to export these variables again.

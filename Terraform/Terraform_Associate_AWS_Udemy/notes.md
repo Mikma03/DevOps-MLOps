@@ -48,3 +48,19 @@ There are a handful of basic terraform commands, including:
         ├── outputs.tf
         └── terraform.tfvars
 ```
+
+
+# HCL
+
+    1 # Template
+    2 <BLOCK TYPE> "<BLOCK LABEL>" "<BLOCK LABEL>" {
+    3 # Block body
+    4 <IDENTIFIER> = <EXPRESSION> # Argument
+    5 }
+    6
+    7 # AWS EC2 Example
+    8 resource "aws_instance" "web_server" { # BLOCK
+    9 ami = "ami-04d29b6f966df1537" # Argument
+    10 instance_type = var.instance_type # Argument with value as expression (Variable value replaced from varibales.tf
+    11 }
+
