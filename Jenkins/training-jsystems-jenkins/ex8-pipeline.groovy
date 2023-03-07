@@ -8,7 +8,7 @@ pipeline {
                 script {
                     scmUtils.gitCheckout([
                         revision: 'main',
-                        url: 'https://github.com/Mikma03/DevOps-MLOps/tree/main/Jenkins',
+                        url: 'https://github.com/Mikma03/DevOps-MLOps',
                         credentialsId: 'my-git-credentials'
                     ])
                 }
@@ -42,7 +42,7 @@ pipeline {
         stage('Push changes') {
             steps {
                 script {
-                    scmUtils.gitPush('my-git-credentials', 'https://github.com/Mikma03/DevOps-MLOps/tree/main/Jenkins')
+                    scmUtils.gitPush('my-git-credentials', 'https://github.com/Mikma03/DevOps-MLOps')
                 }
             }
         }
