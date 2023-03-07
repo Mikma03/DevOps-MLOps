@@ -1,15 +1,17 @@
 @Library('my-folder-shared-lib-mikolaj-lib') _
 
 pipeline {
-    agent any
+    parameters {
+        credentials(name: 'myCredentials', description: 'Jenkins credentials for Git authentication', defaultValue: 'example_1')
+    }
     stages {
         stage('Git checkout') {
             steps {
                 script {
-                    scmUtils.gitCheckout([
+                    gitCheckout([
                         revision: 'main',
-                        url: 'https://github.com/Mikma03/DevOps-MLOps',
-                        credentialsId: 'my-git-credentials'
+                        url: 'https://github.com/username/repository.git',
+                        credentialsId: "${params.myCredentials}"
                     ])
                 }
             }
@@ -20,7 +22,7 @@ pipeline {
                     scmUtils.setGitUserInfo([
                         username: 'my-git-username',
                         email: 'my-git-email@example.com',
-                        credentialsId: 'my-git-credentials'
+                        redentialsId: "${params.myCredentials}"
                     ])
                 }
             }
