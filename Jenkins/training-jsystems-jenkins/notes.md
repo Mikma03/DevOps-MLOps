@@ -12,6 +12,12 @@
 
 - https://github.com/devopsit-mg/tools
 
+- https://github.com/devopsit-mg/ansible
+
+- https://github.com/devopsit-mg/jenkins-library
+
+
+
 # Pipeline Syntax Documentation
 
 - https://www.jenkins.io/doc/book/pipeline/syntax/
