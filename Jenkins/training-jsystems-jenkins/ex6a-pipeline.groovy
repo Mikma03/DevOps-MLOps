@@ -11,7 +11,7 @@ pipeline {
     post {
         failure {
             echo "Stage failed. Triggering downstream pipeline..."
-            build job: 'downstream_pipeline', parameters: [string(name: 'EXAMPLE_VAR', value: 'example_value')]
+            build job: 'ex6b-pipeline', parameters: [string(name: 'EXAMPLE_VAR', value: 'example_value')]
         }
     }
 }
