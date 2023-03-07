@@ -1,23 +1,25 @@
+@Library('my-folder-shared-lib-mikolaj-lib') _
+
 pipeline {
     agent any
     stages {
         stage('Git checkout') {
             steps {
                 script {
-                    gitCheckout([
+                    scmUtils.gitCheckout([
                         revision: 'main',
-                        url: 'https://github.com/username/repository.git',
+                        url: 'https://github.com/Mikma03/DevOps-MLOps/tree/main/Jenkins',
                         credentialsId: 'my-git-credentials'
                     ])
                 }
             }
         }
-        stage('Set Git user info') {
+        stage('Set git user info') {
             steps {
                 script {
-                    setGitUserInfo([
-                        username: 'myusername',
-                        email: 'myemail@example.com',
+                    scmUtils.setGitUserInfo([
+                        username: 'my-git-username',
+                        email: 'my-git-email@example.com',
                         credentialsId: 'my-git-credentials'
                     ])
                 }
@@ -31,7 +33,7 @@ pipeline {
         stage('Commit changes') {
             steps {
                 script {
-                    gitCommit([
+                    scmUtils.gitCommit([
                         commitMessage: 'Updated myfile.txt'
                     ], 'myfile.txt')
                 }
@@ -40,7 +42,7 @@ pipeline {
         stage('Push changes') {
             steps {
                 script {
-                    gitPush('my-git-credentials', 'https://github.com/username/repository.git')
+                    scmUtils.gitPush('my-git-credentials', 'https://github.com/Mikma03/DevOps-MLOps/tree/main/Jenkins')
                 }
             }
         }
