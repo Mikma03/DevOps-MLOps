@@ -1,6 +1,7 @@
 @Library('my-folder-shared-lib-mikolaj-lib') _
 
 pipeline {
+    agent any
     parameters {
         credentials(name: 'myCredentials', description: 'Jenkins credentials for Git authentication', defaultValue: 'example_1')
     }
