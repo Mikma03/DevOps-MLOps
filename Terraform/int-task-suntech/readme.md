@@ -26,6 +26,10 @@ Oryginal CloudFormation code link:
 
 > https://arcgisstore.s3.us-east-1.amazonaws.com/110/templates/arcgis-server-ha.template.json
 
+Oryginal architecture description
+
+> https://enterprise.arcgis.com/en/server/latest/cloud/amazon/cf-arcgis-server-ha.htm
+
 As cf2tf tool is under developement, that means it is not perfect.
 
 Moreover oryginal scripts, commands from CloudFromation were removed as main tasks are:
