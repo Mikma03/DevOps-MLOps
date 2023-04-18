@@ -1,5 +1,9 @@
 <!-- TOC -->
 
+- [Link to repo and book](#link-to-repo-and-book)
+  - [Terraform: Up and Running, 3rd Edition](#terraform-up-and-running-3rd-edition)
+    - [GitHub repo](#github-repo)
+    - [O'Reilly](#oreilly)
 - [Configuration Management Versus Provisioning](#configuration-management-versus-provisioning)
 - [Procedural Language Versus Declarative Language](#procedural-language-versus-declarative-language)
 - [General-Purpose Language Versus Domain-Specific Language](#general-purpose-language-versus-domain-specific-language)
@@ -8,6 +12,18 @@
 - [Installing Terraform](#installing-terraform)
 
 <!-- /TOC -->
+
+# Link to repo and book
+
+## Terraform: Up and Running, 3rd Edition
+
+### GitHub repo
+
+- https://github.com/brikis98/terraform-up-and-running-code/tree/3rd-edition
+
+### O'Reilly
+
+- https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/
 
 # Configuration Management Versus Provisioning
 

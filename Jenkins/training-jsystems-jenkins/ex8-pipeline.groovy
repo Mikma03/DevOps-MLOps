@@ -3,7 +3,7 @@
 pipeline {
     agent any
     parameters {
-        credentials(name: 'myCredentials', description: 'Jenkins credentials for Git authentication', defaultValue: 'example_1')
+        credentials(name: 'myCredentials', defaultValue: 'example_1')
     }
     stages {
         stage('Git checkout') {

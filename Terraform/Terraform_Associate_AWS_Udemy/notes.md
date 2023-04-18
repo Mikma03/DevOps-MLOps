@@ -1,3 +1,6 @@
+Link to repo with additional materials and links.
+
+- https://github.com/btkrausen/hashicorp/tree/master/terraform
 
 # Terraform Basics
 
@@ -49,7 +52,6 @@ There are a handful of basic terraform commands, including:
         └── terraform.tfvars
 ```
 
-
 # HCL
 
     1 # Template
@@ -63,4 +65,3 @@ There are a handful of basic terraform commands, including:
     9 ami = "ami-04d29b6f966df1537" # Argument
     10 instance_type = var.instance_type # Argument with value as expression (Variable value replaced from varibales.tf
     11 }
-
