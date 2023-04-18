@@ -14,6 +14,7 @@
 - [Terraform workflow](#terraform-workflow)
   - [Step by step Terraform workflow](#step-by-step-terraform-workflow)
   - [Terraform expected folder structure](#terraform-expected-folder-structure)
+- [Description of Terraform repo](#description-of-terraform-repo)
 
 <!-- /TOC -->
 
@@ -145,8 +146,22 @@ Descrition
 
 - `environments`: This directory contains subdirectories for different environments, such as production and staging. Each environment has its own `main.tf`, `variables.tf`, and `terraform.tfvars` files to define the resources, input variables, and environment-specific variable values, respectively.
 
-  - `modules`: This directory contains reusable Terraform modules for different infrastructure components, such as compute, network, and storage. Each module has its own `main.tf`, `variables.tf`, and `outputs.tf` files to define the resources, input variables, and outputs, respectively.
+- `modules`: This directory contains reusable Terraform modules for different infrastructure components, such as compute, network, and storage. Each module has its own `main.tf`, `variables.tf`, and `outputs.tf` files to define the resources, input variables, and outputs, respectively.
 
 - `README.md`: This file contains documentation about the project, including descriptions of the environments, modules, and how to use them.
 
 This folder structure promotes modularity and reusability by separating environment-specific configurations from the reusable modules. You can extend this structure as needed to accommodate additional environments, modules, or other organizational requirements.
+
+# Description of Terraform repo
+
+- `main.tf`: This file is the primary entry point for your Terraform configurations. It typically contains resource definitions and may reference modules for organizing your infrastructure code. It's the central place where you define your infrastructure resources and configurations.
+
+- `variables.tf`: This file contains the input variable declarations for your Terraform configurations. Variables allow you to parameterize your Terraform code, making it more flexible and reusable. By declaring variables in this file, you can pass different values for each environment or module, making your infrastructure code more adaptable to various use cases.
+
+- `outputs.tf`: This file contains output variable declarations. Outputs are used to extract and expose data from your Terraform configuration. They are useful for displaying important information, such as resource IDs, IP addresses, or DNS names. Outputs can also be used to pass data between different Terraform configurations or to integrate with external tools and systems.
+
+- `terraform.tfvars` or `*.auto.tfvars`: These files are used to define the values for the input variables declared in `variables.tf`. You can have separate `terraform.tfvars` or `*.auto.tfvars` files for each environment to provide environment-specific variable values. Terraform automatically loads `*.auto.tfvars` files, whereas you need to specify the -var-file flag to load a `terraform.tfvars` file when running Terraform commands.
+
+- `backend.tf`: This file is used to configure the remote backend for storing your Terraform state. A remote backend allows multiple team members to collaborate on Terraform projects and provides features like locking and versioning. Common remote backends include Amazon S3, Google Cloud Storage, or Terraform Cloud.
+
+- `providers.tf`: This file is used to configure the providers required by your Terraform configurations. Providers are responsible for managing resources in different cloud platforms or services. For example, the AWS provider is used to manage AWS resources, and the Google provider is used to manage Google Cloud resources.
