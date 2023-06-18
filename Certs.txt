@@ -43,8 +43,8 @@ Link: https://databricks.com/learn/certification/apache-spark-developer-associat
 Koszt: 200 USD
 
 ---------------------------------------------------------------------------------
-Nazwa: Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices exam
-Link: https://www.redhat.com/en/services/training/ex447-red-hat-certified-specialist-advanced-automation-ansible-best-practices-exam
+Nazwa: Red Hat Certified System Administrator
+Link: https://www.redhat.com/en/services/certification/rhcsa
 Koszt: 425 USD
 
 ---------------------------------------------------------------------------------
@@ -61,3 +61,8 @@ Koszt: 100 USD
 Nazwa: PROMETHEUS CERTIFIED ASSOCIATE
 Link: https://www.cncf.io/certification/pca/
 Koszt: 250 USD
+
+---------------------------------------------------------------------------------
+Nazwa: Apache Airflow Certified
+Link: https://www.astronomer.io/certification/?fbclid=IwAR20aIH3cq9MuEk6A8Zc1EKg5YbHttxF2Rx-Zi9Eku0ntqfD0S7citE6CWQ
+Koszt: 150 USD

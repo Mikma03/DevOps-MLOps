@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [Links and resources - DevOps generally](#links-and-resources---devops-generally)
+  - [Interesting article](#interesting-article)
 - [Tools for monitoring](#tools-for-monitoring)
 - [Ansible](#ansible)
 - [Linux - Bash](#linux---bash)
@@ -44,9 +45,23 @@
 
 # Links and resources - DevOps generally
 
-- [Python for DevOps by Noah Gift](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
+Python for DevOps by Noah Gift
 
-- [DevOps Tools Periodic Table](https://digital.ai/devops-tools-periodic-table)
+- https://learning.oreilly.com/library/view/python-for-devops/9781492057680/
+
+DevOps Tools Periodic Table
+
+- https://digital.ai/devops-tools-periodic-table
+
+DevOps-Guide
+
+- https://github.com/Tikam02/DevOps-Guide/tree/master
+
+## Interesting article
+
+The Principles of Designing Microservices
+
+- https://redis.com/blog/implementing-designing-microservices/
 
 # Tools for monitoring
 
