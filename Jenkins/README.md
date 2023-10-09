@@ -7,6 +7,8 @@
   - [Books](#books)
   - [Helion](#helion)
   - [Oreily course](#oreily-course)
+  - [Hands-on projects](#hands-on-projects)
+  - [Jenkins articles](#jenkins-articles)
 
 <!-- /TOC -->
 
@@ -17,18 +19,6 @@
 - https://learn.microsoft.com/en-us/azure/developer/jenkins/
 
 ## Jenkins Certification Training Course
-
-- Exam Preparation: Certified Jenkins Engineer
-
-  - https://university.cloudbees.com/
-
-- CI/CD Pipelines with Jenkins Certification Training Course
-
-  - https://learning.oreilly.com/videos/ci-cd-pipelines-with/9781804616918/
-
-- DevOps: Certified Jenkins Engineer
-
-  - https://www.udemy.com/course/continous-integration-jenkins-pipelines/
 
 - Certified Jenkins Engineer (CJE) Prep Course
   - https://learning.oreilly.com/videos/certified-jenkins-engineer/0636920305965/
@@ -72,3 +62,17 @@
 
 - Hands-On Continuous Integration and Delivery with Jenkins
   - https://learning.oreilly.com/videos/hands-on-continuous-integration/9781838982065/
+
+## Hands-on projects
+
+- DevOps Project 1 - CI/CD with Git Jenkins Ansible Kubernetes
+  - https://www.udemy.com/course/valaxy-devops/
+
+- Rocking DevOps with Jenkins, Kubernetes, Ansible
+  - https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible/
+
+
+## Jenkins articles
+
+- A developer's guide to CI/CD and GitOps with Jenkins Pipelines
+  - https://developers.redhat.com/articles/2022/01/13/developers-guide-cicd-and-gitops-jenkins-pipelines#

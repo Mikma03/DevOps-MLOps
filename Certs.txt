@@ -33,13 +33,13 @@ Link: https://training.mirantis.com/dca-certification-exam/
 Koszt: 195 USD
 
 ---------------------------------------------------------------------------------
-Nazwa: KUBERNETES AND CLOUD NATIVE ASSOCIATE
-Link: https://www.cncf.io/certification/kcna/
+Nazwa: CERTIFIED KUBERNETES ADMINISTRATOR (CKA)
+Link: https://www.cncf.io/certification/cka/
 Koszt: 250 USD
 
 ---------------------------------------------------------------------------------
 Nazwa: Certified Associate Developer for Apache Spark
-Link: https://databricks.com/learn/certification/apache-spark-developer-associate
+Link: https://www.databricks.com/learn/certification/data-engineer-associate
 Koszt: 200 USD
 
 ---------------------------------------------------------------------------------

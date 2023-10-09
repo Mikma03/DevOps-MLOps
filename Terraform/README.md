@@ -4,14 +4,12 @@
   - [Terraform Language Documentation](#terraform-language-documentation)
   - [Terraform CLI Documentation](#terraform-cli-documentation)
   - [Providers: on AWS example](#providers-on-aws-example)
-- [Terraform - Introduction and materials](#terraform---introduction-and-materials)
-  - [Practise exam questions](#practise-exam-questions)
-  - [BOOKS: Terraform - general information](#books-terraform---general-information)
-- [Udemy course](#udemy-course)
+- [Terraform - materials](#terraform---materials)
+  - [BOOKS: Terraform](#books-terraform)
+- [Udemy courses](#udemy-courses)
 - [Terraform on Azure](#terraform-on-azure)
 - [Terraform on AWS](#terraform-on-aws)
 - [Terraform on GCP](#terraform-on-gcp)
-- [Additionals course](#additionals-course)
 - [Terraform workflow](#terraform-workflow)
   - [Step by step Terraform workflow](#step-by-step-terraform-workflow)
   - [Terraform expected folder structure](#terraform-expected-folder-structure)
@@ -35,35 +33,37 @@
 
 ---
 
-# Terraform - Introduction and materials
+# Terraform - materials
 
-## Practise exam questions
-
-- https://www.udemy.com/course/terraform-associate-practice-exam/
-- https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020-model-exams/
-- https://www.udemy.com/course/terraform-associate-certification-2021-practice-exams/
-
-## BOOKS: Terraform - general information
-
-- Hashicorp Terraform
-
-  - https://app.exampro.co/student/journey/terraform
+## BOOKS: Terraform
 
 - Terraform: Up and Running, 3rd Edition
 
   - https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/
 
-- Terraform in Action video edition
-  - https://learning.oreilly.com/library/view/terraform-in-action/9781617296895/
+- Infrastructure as Code, Patterns and Practices
 
-# Udemy course
+  - https://www.manning.com/books/infrastructure-as-code-patterns-and-practices
+
+- Terraform Cookbook 2nd Edition
+  - https://learning.oreilly.com/library/view/terraform-cookbook/9781804616420/
+
+# Udemy courses
 
 - HashiCorp Certified: Terraform Associate 2022
 
   - https://www.udemy.com/course/terraform-beginner-to-advanced/
 
-- HashiCorp Certified: Terraform Associate - Hands-On Labs - AWS
+- HashiCorp Certified: Terraform Associate - Hands-On Labs
+
   - https://www.udemy.com/course/terraform-hands-on-labs/
+
+- Complete Terraform Course
+
+  - https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/
+
+- More than Certified in Terraform
+  - https://www.udemy.com/course/terraform-certified/
 
 # Terraform on Azure
 
@@ -71,27 +71,26 @@
 
   - https://www.udemy.com/course/hashicorp-certified-terraform-associate-on-azure-cloud/
 
-- Terraform with Azure by Building a Dev Environment
+- Terraform on Azure
 
-  - https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org
+  - https://www.udemy.com/course/terraform-on-azure-services/
 
-- Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions
-  - https://learning.oreilly.com/library/view/deep-dive-terraform-on/9781484273289/
+- Terraform on Azure with IaC DevOps SRE
+  - https://www.udemy.com/course/terraform-on-azure-with-iac-azure-devops-sre-real-world-25-demos/
 
 # Terraform on AWS
 
 - HashiCorp Certified: Terraform Associate - 50 Practical Demos
+
   - https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/
+
+- Terraform on AWS EKS Kubernetes IaC SRE
+  - https://www.udemy.com/course/terraform-on-aws-eks-kubernetes-iac-sre-50-real-world-demos/
 
 # Terraform on GCP
 
 - Terraform for Beginners using GCP
   - https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/
-
-# Additionals course
-
-- Developing Infrastructure as Code with Terraform Live Lessons
-  - https://learning.oreilly.com/videos/developing-infrastructure-as/9780136608776/
 
 # Terraform workflow
 
