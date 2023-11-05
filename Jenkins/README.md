@@ -36,6 +36,15 @@
 - Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
   - https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/
 
+- DevOps with Jenkins Pipeline, Ansible, Kubernetes & Docker
+  - https://www.udemy.com/course/jenkins-pipeline-jons/
+
+- Jenkins DevOps CI/CD Pipeline
+  - https://www.udemy.com/course/continous-integration-jenkins-pipelines/
+
+- Jenkins Pipeline As Code
+  - https://www.udemy.com/course/jenkins-pipeline-as-code-all-you-need-to-know-from-a-z/
+
 ## Books
 
 - CI/CD Pipeline Using Jenkins Unleashed: Solutions While Setting Up CI/CD Processes

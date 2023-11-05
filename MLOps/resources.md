@@ -16,7 +16,7 @@
 
 - Machine Learning Design Patterns
 
-  - amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_14?crid=2WIEMZN1UF0OQ&keywords=AWS+MLOps&qid=1688066016&sprefix=aws+mlop%2Caps%2C220&sr=8-14
+  - https://amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_14?crid=2WIEMZN1UF0OQ&keywords=AWS+MLOps&qid=1688066016&sprefix=aws+mlop%2Caps%2C220&sr=8-14
 
 - The Machine Learning Solutions Architect Handbook
 

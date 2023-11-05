@@ -16,16 +16,15 @@
 ## Udemy course
 
 - GitHub Actions - The Complete Guide
-  - https://www.udemy.com/course/github-actions-the-complete-guide/
+  - https://www.udemy.com/course/github-actioxns-the-complete-guide/
 
 - The Complete GitHub Actions & Workflows Guide
   - https://www.udemy.com/course/github-actions/
 
 ## Book
 
-- Automating Workflows with GitHub Actions
-
-  - https://learning.oreilly.com/library/view/automating-workflows-with/9781800560406/
+- Accelerate DevOps with GitHub
+  - https://learning.oreilly.com/library/view/accelerate-devops-with/9781801813358/
 
 - Learning GitHub Actions
   - https://learning.oreilly.com/library/view/learning-github-actions/9781098131067/
@@ -42,7 +41,7 @@
 ## Git course in EN - Udemy
 
 - The Git & Github Bootcamp
-  - https://www.udemy.com/course/git-and-github-bootcamp/niefree
+  - https://www.udemy.com/course/git-and-github-bootcamp/
 
 ---
 
