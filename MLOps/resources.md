@@ -32,3 +32,6 @@
 
 - Building Machine Learning Pipelines
   - https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198/ref=sr_1_19?crid=310HLHM2MECR&keywords=Machine+Learning+design&qid=1688074192&sprefix=machine+learning+design%2Caps%2C231&sr=8-19
+
+- Machine Learning Engineering with Python - Second Edition
+  - https://learning.oreilly.com/library/view/machine-learning-engineering/9781837631964/

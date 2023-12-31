@@ -1,10 +1,8 @@
 <!-- TOC -->
 
 - [Official documentation](#official-documentation)
-  - [Terraform Language Documentation](#terraform-language-documentation)
-  - [Terraform CLI Documentation](#terraform-cli-documentation)
-  - [Providers: on AWS example](#providers-on-aws-example)
 - [Terraform - materials](#terraform---materials)
+  - [Terraform Resources from Terraform Cookbook](#terraform-resources-from-terraform-cookbook)
   - [BOOKS: Terraform](#books-terraform)
 - [Udemy courses](#udemy-courses)
 - [Terraform on Azure](#terraform-on-azure)
@@ -17,33 +15,49 @@
 
 <!-- /TOC -->
 
+
+
+____
+
 # Official documentation
 
-## Terraform Language Documentation
+- Terraform Language Documentation
 
-- https://developer.hashicorp.com/terraform/language
+  - https://developer.hashicorp.com/terraform/language
 
-## Terraform CLI Documentation
+- Terraform CLI Documentation
 
-- https://developer.hashicorp.com/terraform/cli
+  - https://developer.hashicorp.com/terraform/cli
 
-## Providers: on AWS example
+- Terraform Cloud:
 
-- https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+  - https://developer.hashicorp.com/terraform/cloud-docs
+
+- Terraform Enterprise:
+
+  - https://developer.hashicorp.com/terraform/enterprise
+
+- Cloud Development Kit for Terraform:
+
+  - https://developer.hashicorp.com/terraform/cdktf
+
+- Providers: on AWS example
+
+  - https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
 ---
 
 # Terraform - materials
+
+## Terraform Resources from Terraform Cookbook
+
+- https://learning.oreilly.com/library/view/terraform-cookbook/9781804616420/Text/Appendix_B.xhtml#:-:text=Terraform%20Resources
 
 ## BOOKS: Terraform
 
 - Terraform: Up and Running, 3rd Edition
 
   - https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/
-
-- Infrastructure as Code, Patterns and Practices
-
-  - https://www.manning.com/books/infrastructure-as-code-patterns-and-practices
 
 - Terraform Cookbook 2nd Edition
   - https://learning.oreilly.com/library/view/terraform-cookbook/9781804616420/

@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [GitHub Actions](#github-actions)
+  - [Microsoft](#microsoft)
   - [Udemy course](#udemy-course)
   - [Book](#book)
 - [Git courses](#git-courses)
@@ -10,8 +11,13 @@
   - [GitHub Actions Components](#github-actions-components)
 
 <!-- /TOC -->
+<!-- /TOC -->
 
 # GitHub Actions
+
+## Microsoft
+
+- https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5
 
 ## Udemy course
 
